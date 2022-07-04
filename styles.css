@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #898AA6;
-  --primary-color-dark: #C9BBCF;
-  --accent-color: #B7D3DF;
+  --primary-color: #F5F0BB;
+  --primary-color-dark: #C4DFAA;
+  --accent-color: #73A9AD;
 }
 
 html {
